@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Cake CountDown</string>
+    <string name="TO_DO_LIST">BIRTHDAY LIST</string>
+    <string name="new_task">NEW BIRTHDAY</string>
+    <string name="whattobedone">🎂 Whose Birthday is it? </string>
+    <string name="hint_add">Enter name</string>
+    <string name="duedate"> 🎂 When is the Birthday? </string>
+    <string name="duetime">🎂 Set Remainder</string>
+    <string name="add">ADD</string>
+    <string name="edit_details">EDIT DETAILS</string>
+    <string name="save">SAVE</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+</resources>
